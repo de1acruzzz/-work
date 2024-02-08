@@ -1,6 +1,10 @@
 # -work
 Учебный план
 
+папка: https://drive.google.com/drive/folders/1VWI6_r5c4px_SaTyDuiUIKHg-CZU-8hQ?usp=drive_link
+
+документ курсовая: https://docs.google.com/document/d/1xdHth69FJYLYolosMRUXKAzkcfCL4DvMWpBW2GqE6v8/edit?usp=sharing
+
 1. Курсовая работа по 09.01
 2. титульный
 3. тема: сайт с БД
